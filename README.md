@@ -1,5 +1,9 @@
 # Workforce Productivity and Organizational Performance Dashboard
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 📊 Project Overview
 
 This project analyzes employee performance, productivity, and attrition using Tableau and MySQL. The dashboard provides insights into workforce distribution, salary patterns, employee satisfaction, and attrition trends.
@@ -29,6 +33,12 @@ This project analyzes employee performance, productivity, and attrition using Ta
 
 * Tableau Dashboard (.twbx)
 * Dataset (.csv)
+
+## 🚀 How to Use
+
+1. Download the `.twbx` file
+2. Open using Tableau Desktop / Tableau Public
+3. Explore dashboard using filters
 
 ## 🚀 Author
 
