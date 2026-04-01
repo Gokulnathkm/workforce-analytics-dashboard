@@ -1,45 +1,65 @@
-# Workforce Productivity and Organizational Performance Dashboard
+Workforce Productivity and Organizational Performance Dashboard
 
-## 📊 Dashboard Preview
+Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
-## 📊 Project Overview
 
-This project analyzes employee performance, productivity, and attrition using Tableau and MySQL. The dashboard provides insights into workforce distribution, salary patterns, employee satisfaction, and attrition trends.
+ Project Overview
 
-## 🛠 Tools Used
+This project analyzes employee performance, productivity, and attrition using Tableau and MySQL.
+It helps identify workforce trends, salary patterns, and key factors influencing employee satisfaction and resignation.
 
-* Tableau (Visualization)
-* MySQL (Data Management)
+ Problem Statement
+
+Organizations struggle to understand:
+
+* Why employees leave (attrition)
+* How salary and overtime impact productivity
+* Whether satisfaction affects performance
+
+This dashboard provides data-driven insights to support HR decision-making.
+
+ Tools & Technologies
+
+* Tableau (Data Visualization)
+* MySQL (Database Management)
 * CSV Dataset
 
-## 📈 Key Features
+ Key Features
 
-* Department-wise employee analysis
-* Salary distribution insights
-* Attrition rate analysis
-* Employee satisfaction vs performance
-* Overtime vs salary heatmap
+* Department-wise employee distribution
+* Salary and overtime analysis
+* Attrition rate visualization
+* Satisfaction vs performance analysis
+* Interactive filters (Gender, Department, Attrition)
 
-## 📌 Insights
+ Insights
 
-* Salary is distributed in fixed bands across departments
 * Attrition rate is around 10%
-* No strong correlation between overtime and salary
-* Employee satisfaction does not strongly impact performance
+* Salary distribution is consistent across departments
+* Weak correlation between satisfaction and performance
+* Overtime does not strongly impact salary
 
-## 📂 Files Included
+ Dataset
 
-* Tableau Dashboard (.twbx)
-* Dataset (.csv)
+* Source: Employee dataset (CSV)
+* Fields include: Age, Salary, Department, Satisfaction Score, Performance Score, Overtime Hours
 
-## 🚀 How to Use
+ How to Use
 
 1. Download the `.twbx` file
 2. Open using Tableau Desktop / Tableau Public
 3. Explore dashboard using filters
 
-## 🚀 Author
+ Skills Demonstrated
+
+* Data Visualization
+* Data Cleaning & Preparation
+* Business Insight Generation
+* Dashboard Design
+* SQL Integration
+
+ Author
 
 Gokul
